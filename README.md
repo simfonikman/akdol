@@ -1,2 +1,0 @@
-# akdol
-telegram-super-bot
